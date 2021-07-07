@@ -1,3 +1,4 @@
+http://xieyufei.com/2021/06/22/Front-Nginx.html
 http://xieyufei.com/2021/06/10/Front-Package-Vite.html
 http://xieyufei.com/2021/05/10/Vue3-Feature.html
 http://xieyufei.com/2021/04/25/Front-Eslint.html
@@ -7,4 +8,3 @@ http://xieyufei.com/2021/03/10/DesignPattern-Observer.html
 http://xieyufei.com/2021/02/23/Front-Element.html
 http://xieyufei.com/2021/01/28/Package-Tool-Compare.html
 http://xieyufei.com/2021/01/08/CommonJS-ES6.html
-http://xieyufei.com/2020/12/16/DefineProperty-Proxy.html
